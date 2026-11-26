@@ -1,0 +1,3 @@
+{%- assign jour = include.date | date: "%-d" -%}
+{%- assign m = include.date | date: "%-m" | minus: 1 -%}
+<time datetime="{{ include.date | date: '%Y-%m-%d' }}">{{ jour }}{% if jour == "1" %}er{% endif %} {{ site.data.fr.mois[m] }} {{ include.date | date: "%Y" }}</time>

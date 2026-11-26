@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{%- assign rub = site.data.rubriques | where: "slug", page.rubrique | first -%}
+{%- assign articles = site.posts | where: "rubrique", page.rubrique -%}
+<section class="liste" data-rubrique="{{ page.rubrique }}">
+  <header class="article__entete">
+    <p class="surtitre">Rubrique</p>
+    <h1 class="article__titre">{{ rub.nom }}</h1>
+    <p class="entete__texte">{{ rub.description }}</p>
+  </header>
+  {% if articles.size > 0 %}
+  <h2 class="visuellement-cache">Articles</h2>
+  <div class="articles">
+    {% for post in articles %}
+    {% include carte.html %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="vide">Les premiers articles de cette rubrique arrivent bientôt.</p>
+  {% endif %}
+</section>

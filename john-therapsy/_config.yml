@@ -1,0 +1,43 @@
+# ─────────────────────────────────────────────
+#  Réglages du blog john.therapsy
+# ─────────────────────────────────────────────
+
+title: john.therapsy
+# Le logo affiché en haut des pages (la partie dans <span> est colorée)
+logo: "john<span>.therapsy</span>"
+tagline: "Psychologie · Spiritualité · Bien-être"
+description: >-
+  Un espace pour mieux se comprendre, nourrir ce qui donne du sens
+  et prendre soin de soi, un article après l'autre.
+
+author:
+  name: John
+
+# Adresse e-mail de contact affichée dans les mentions légales (à compléter)
+email: ""
+
+lang: fr_FR
+timezone: Europe/Paris
+
+# Adresse des articles : john-therapsy.fr/titre-de-l-article/
+permalink: /:title/
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  path: feed.xml
+
+exclude:
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

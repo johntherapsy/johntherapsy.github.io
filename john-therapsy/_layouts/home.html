@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<section class="intro">
+  <p class="intro__texte">{{ site.description }}</p>
+  <ul class="pastilles">
+    {% for r in site.data.rubriques %}
+    <li><a class="pastille" data-rubrique="{{ r.slug }}" href="{{ r.url | relative_url }}">{{ r.nom }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="liste" aria-labelledby="titre-liste">
+  <h2 id="titre-liste" class="liste__titre">Derniers articles</h2>
+  {% if site.posts.size > 0 %}
+  <div class="articles">
+    {% for post in site.posts %}
+    {% include carte.html %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="vide">Le premier article arrive bientôt.</p>
+  {% endif %}
+</section>
+
+{{ content }}

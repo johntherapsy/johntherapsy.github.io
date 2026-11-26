@@ -1,0 +1,17 @@
+# Les rubriques du blog. Le "slug" est ce qu'on écrit dans un article
+# (rubrique: psychologie) pour le ranger dans la bonne rubrique.
+
+- slug: psychologie
+  nom: Psychologie
+  url: /psychologie/
+  description: Comprendre nos émotions, nos pensées et nos relations.
+
+- slug: spiritualite
+  nom: Spiritualité
+  url: /spiritualite/
+  description: Ce qui donne du sens, ce qui relie et ce qui apaise.
+
+- slug: bien-etre
+  nom: Bien-être
+  url: /bien-etre/
+  description: Des pratiques simples pour prendre soin de soi au quotidien.
