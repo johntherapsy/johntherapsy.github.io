@@ -13,7 +13,7 @@ Ce blog rassemble mes lectures, mes réflexions et ce que j'expérimente autour 
 
 En ce qui concerne la **psychologie**, il faut que vous sachiez que j'ai mon lot de bagage, en tant que patient. J'ai eu, et j'ai encore, des psychothérapie diverses, traitant de troubles psy / addictions. Il y a de ça 10 ans maintenant que je travail sur moi et mes troubles. J'ai également pu analyser la façon dont les soignants exercent, ainsi que d'autres patients ayant des autres troubles.
 
-Concernant la **spiritualité**, j'ai toujours eu de l'attrait pour cette dernière. Que ce soit le côté ésotérique, les pierres, la corrélation avec l'aptitude zen, brûler un encens, et j'en passe (ça sera développer dans la section concernée), j'ai toujours eu ce regard qu'on pourrait donner a un enfant qui est à la veille de Noël.
+Au niveau de la **spiritualité**, j'ai toujours eu de l'attrait pour cette dernière. Que ce soit le côté ésotérique, les pierres, la corrélation avec l'aptitude zen, brûler un encens, et j'en passe (ça sera développer dans la section concernée), j'ai toujours eu ce regard qu'on pourrait donner a un enfant qui est à la veille de Noël.
 
 ---
 
