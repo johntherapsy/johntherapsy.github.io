@@ -1,10 +1,10 @@
 # ─────────────────────────────────────────────
-#  Réglages du blog john.therapsy
+#  Réglages du blog john.therapy
 # ─────────────────────────────────────────────
 
-title: john.therapsy
+title: john.therapy
 # Le logo affiché en haut des pages (la partie dans <span> est colorée)
-logo: "john<span>.therapsy</span>"
+logo: "john<span>.therapy</span>"
 tagline: "Psychologie · Spiritualité · Bien-être"
 description: >-
   Un espace pour mieux se comprendre, nourrir ce qui donne du sens
