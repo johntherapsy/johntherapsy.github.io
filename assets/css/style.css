@@ -176,9 +176,11 @@ img { max-width: 100%; height: auto; }
 .ciel__titre p {
   margin: 1rem 0 0;
   color: var(--aube);
-  font-size: 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
   letter-spacing: 0.32em;
   text-transform: uppercase;
+  text-shadow: 0 1px 3px rgba(14, 12, 34, 0.9), 0 0 14px rgba(14, 12, 34, 0.7);
 }
 
 /* ───────── Accueil ───────── */
