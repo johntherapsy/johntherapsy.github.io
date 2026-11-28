@@ -42,6 +42,7 @@
 [data-rubrique="psychologie"] { --accent: var(--lavande); }
 [data-rubrique="spiritualite"] { --accent: var(--aube); }
 [data-rubrique="bien-etre"] { --accent: var(--rose); }
+[data-rubrique="addiction"] { --accent: var(--menthe); }
 
 *, *::before, *::after { box-sizing: border-box; }
 
