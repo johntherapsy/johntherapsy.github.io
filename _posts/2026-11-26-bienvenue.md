@@ -1,6 +1,6 @@
 ---
 # ✍️ Premier article d'exemple : réécris-le avec tes propres mots.
-title: "Bienvenue sur john.therapsy"
+title: "Bienvenue sur john.therapy"
 description: "Pourquoi ce blog existe, et ce qu'on y trouvera."
 ---
 
