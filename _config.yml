@@ -13,13 +13,13 @@ description: >-
 author:
   name: John
 
-# Adresse e-mail de contact affichée dans les mentions légales (à compléter)
-email: ""
+# Adresse e-mail de contact affichée dans les mentions légales
+email: "contact@johntherapy.fr"
 
 lang: fr_FR
 timezone: Europe/Paris
 
-# Adresse des articles : john-therapsy.fr/titre-de-l-article/
+# Adresse des articles : johntherapy.fr/titre-de-l-article/
 permalink: /:title/
 
 markdown: kramdown
